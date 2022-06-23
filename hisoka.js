@@ -578,9 +578,9 @@ case 'tqtt': case 'tqto': case 'thanksto': {
 ⭔ ZeeoneOfc.
 ⭔ Penyedia Module.
 ⭔ Penyedia Res Api's.
-⭔ All My Friends.
+⭔ Rii.
 
-• Library : *Baileys-MD*.
+• Library : *Rii - Bot*.
 • Prefix : ( ${prefix} )
 • Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
 • Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
@@ -873,17 +873,17 @@ var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/hisoka.j
                         "productImage": messa.imageMessage,
                         "productId": "7091718154232528",
                         "title": `_*MENU *_`,
-                        "description": '┏━━━━━━━━━━━━━━⬣\n┃        〔 SEWA BOT  〕\n┃ \n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃   ⬣ SEWA + PREM ⬣\n┃⬡ 1 MINGGU : 8K\n┃⬡ 1 BULAN : 18K\n┃⬡ PERMANEN : 25K\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃       〔 KELEBIHAN BOT 〕\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃⬡ ON 24 JAM\n┃⬡ RUN DI RDP\n┃⬡ ANTI DELAY \n┃⬡ ANTILINK\n┃⬡ WELCOME IMAGE\n┃⬡ LEFT\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃           ⬣〔  SISTEM 〕⬣\n┃⬡ TF - SEND BUKTI - BOT JOIN\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃    *PAYMENT* :\n┃ GOPAY\n┃ DANA\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n_Bukan Bot_ *_Wibusoft_*👍🏻',
-                        "footerText": `©  ZyyXd`,
+                        "description": '┏━━━━━━━━━━━━━━⬣\n┃        〔 SEWA BOT  〕\n┃ \n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃   ⬣ SEWA + PREM ⬣\n┃⬡ 1 MINGGU : 8K\n┃⬡ 1 BULAN : 18K\n┃⬡ PERMANEN : 25K\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃       〔 KELEBIHAN BOT 〕\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃⬡ ON 24 JAM\n┃⬡ RUN DI HEROKU/OKTETO\n┃⬡ ANTI DELAY \n┃⬡ ANTILINK\n┃⬡ WELCOME IMAGE\n┃⬡ LEFT\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃           ⬣〔  SISTEM 〕⬣\n┃⬡ TF - SEND BUKTI - BOT JOIN\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃    *PAYMENT* :\n┃ GOPAY\n┃ DANA\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n_Bukan Bot_ *_Wibusoft_*👍🏻',
+                        "footerText": `©  Rii`,
                         "currencyCode": "IDR",
                         "priceAmount1000": "100000000000000000",
                         "productImageCount": 1,
                         "firstImageId": 1,
                         "salePriceAmount1000": "1000",
                         "retailerId": `Sanzy`,
-                        "url": "wa.me/6281276698054"
+                        "url": "wa.me/6281247822525"
                     },
-                    "businessOwnerJid": "6281276698054@s.whatsapp.net",
+                    "businessOwnerJid": "6281247822525@s.whatsapp.net",
                 }
                 }), { userJid: m.chat, quoted: m })
                 hisoka.relayMessage(m.chat, catalog.message, { messageId: catalog.key.id })
